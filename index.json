@@ -1,0 +1,11 @@
+{
+  "org": "alexcrichton",
+  "repo": "futures-rs",
+  "versions": [
+    {
+      "commit": "8be72deed0014a41117856beb8f03f7eb8bd023d",
+      "tag": "futures-cpupool-0.1.8",
+      "parsed_at": "2026-11-23T00:23:15.144462+00:00"
+    }
+  ]
+}
